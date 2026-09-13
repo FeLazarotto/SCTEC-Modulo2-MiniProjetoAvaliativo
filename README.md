@@ -1,4 +1,4 @@
-# Detecção de Defectos em Peças Fundidas com Redes Neurais Convolucionais (CNN)
+# Detecção de Defeitos em Peças industriais com Redes Neurais Convolucionais (CNN)
 
 Este repositório contém o notebook `SCTEC_Modulo2_MiniProjetoAvaliativo.ipynb` [3], desenvolvido como mini projeto avaliativo do Módulo 2 do SCTEC [3, 4]. O objetivo do projeto é realizar a identificação e classificação automatizada de defeitos de fundição industrial utilizando técnicas de visão computacional clássica (OpenCV) e deep learning com TensorFlow/Keras [4, 5, 6].
 
